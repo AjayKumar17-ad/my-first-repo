@@ -5,3 +5,8 @@ p{
     color: #341;
     margin-left: 200px;
 }
+h1{
+    margin-left: 300px;
+    color: aqua;
+    text-wrap-style: inherit;
+}
